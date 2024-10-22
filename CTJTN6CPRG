@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digital-promise.github.io/badging-status-list/CTJTN6CPRG#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIIP_N_vCBDQAAAAAAAAAAAAAAAB_AyAAl2fUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx",
-  "issuanceDate": "2024-05-06T19:48:23.431Z",
+  "issuanceDate": "2024-10-22T21:37:26.350Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2024-05-06T19:48:23Z",
+    "created": "2024-10-22T21:37:26Z",
     "verificationMethod": "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx#z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z58ve9V4h5QptNKRvFRdvsAHrE133D7CvftuCFzcTu2bQ84i8ecL3JLmPed1g1DPDjtm6rkGtr97bc1tHvN6gE5AH"
+    "proofValue": "z3WBuBeqs5erpngyUMYjNkDtkNhsVB5M3jSPuRU1vQc9JJVvh6CVMYSykoZaZeibPqU4EFnKidzwBWxQJaA977Nv9"
   }
 }
